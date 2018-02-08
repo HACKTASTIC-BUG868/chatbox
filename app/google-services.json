@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364700581340",
+    "firebase_url": "https://tequiero1-695ed.firebaseio.com",
+    "project_id": "tequiero1-695ed",
+    "storage_bucket": "tequiero1-695ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364700581340:android:1244c56be0518ae9",
+        "android_client_info": {
+          "package_name": "com.android.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364700581340-kto7b6r663kc9gtb5lqktcgs9eb53371.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUAt_RCNPNj_q1ZCbcaqW7Z4rjQubPdbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
